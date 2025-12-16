@@ -1,2 +1,3 @@
 # Studentt-huu
-first code 
+this is my first git repository.
+Author- Pranay Bhandare
